@@ -13,12 +13,12 @@ body {
   position: fixed;
   left: 0;
   right: 0;
-  top: 0;
-  bottom: 0;
+  top: -80px;
   margin: auto;
   background: url('../images/crazy_boy.png') 0 0 no-repeat;
   width: 71px;
   height: 80px;
   background-size: 216px 240px;
-  transition: margin-bottom 1s ease;
+  transition: top 1s ease;
 }
+
